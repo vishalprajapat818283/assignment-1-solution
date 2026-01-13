@@ -1,0 +1,60 @@
+output-A
+7211048
+output-B
+char occupies 1 bytes
+int occupies 4 bytes
+float occupies 4 bytes
+output-C
+a = 33000b = 
+4 4
+output-D
+a = 33000b = 
+4 4
+output-E
+n = 15
+output-F 
+4 
+04.00000
+output-G
+0 2
+output-H
+p=1 q=1
+output-I
+c=1
+output-J
+I have robbed and killed...
+output-K
+ans=1
+output-L
+ans=200
+output-M
+Pilots are on strike
+output-N
+k=200
+output-O
+
+output-P
+2
+3
+4
+5
+.
+.
+.
+256
+output-Q
+x=3 y=9 z=27
+output-R
+x=4 z=0
+output-S
+
+output-T
+
+output-U
+
+
+
+
+
+
+
